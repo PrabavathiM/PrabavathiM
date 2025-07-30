@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prabavathi Manivannan
-- 👀 I’m interested in software Development | Colud Computing | Data Related Role
+- 👀 I’m interested in software Development| Data Engineering
 
 
 <!---
